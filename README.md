@@ -1,4 +1,14 @@
-chorma_db will automatically create when you upload the book.
+At first create virtual environment ->
+
+uv venv
+
+Then activate ->
+
+.venv\Scripts\activate
+
+Then install requirements.txt ->
+
+uv pip install -r requirements.txt
 
 .env file ->
 
@@ -11,6 +21,8 @@ GOOGLE_API_KEY = ""
 MISTRAL_API_KEY = ""
 
 HUGGINGFACEHUB_API_TOKEN=
+
+chorma_db folder will automatically create when you upload the book. so if you are going download it then before running the code remove chorma_db folder.
 
 create_database.py is for how database created shows and main02.py shows how use that database and create rag in terminal.
 
