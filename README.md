@@ -20,6 +20,11 @@ run command ->
 
 streamlit run app.py
 
+updated file app02.pr ->
+
+<img width="1910" height="842" alt="image" src="https://github.com/user-attachments/assets/93e6a9db-360c-48f4-a3ce-8ada011618c4" />
+
+
 mistral is free that's why i used this.
 
 If you have money you can use openai/geminni/groq etc.
